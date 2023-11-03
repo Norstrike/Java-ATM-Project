@@ -9,5 +9,6 @@ public class Learning {
         System.out.println(l.value);
         System.out.println(l.assign);
         System.out.println(l.newAssign);
+        System.out.println("Hello world");
     }
 }

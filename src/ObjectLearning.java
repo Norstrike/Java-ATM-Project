@@ -36,5 +36,6 @@ public class ObjectLearning {
         obj2.price=1000;
         System.out.println(obj1.toString());
         System.out.println(obj1.equals(obj2));
+        System.out.println("Wonderful");
     }
 }
